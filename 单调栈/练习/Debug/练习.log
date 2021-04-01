@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (练习.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  源.cpp
+c:\users\81085\desktop\资料\项目\练习\练习\源.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\81085\desktop\资料\项目\练习\练习\源.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+  练习.vcxproj -> C:\Users\81085\Desktop\资料\项目\练习\Debug\单调栈.exe
