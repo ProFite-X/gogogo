@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\81085\desktop\资料\项目\c字符串函数模拟实现\c字符串函数模拟实现\源.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\81085\desktop\资料\项目\c字符串函数模拟实现\c字符串函数模拟实现\源.cpp(80): warning C4715: “my_memcmp”: 不是所有的控件路径都返回值
+  C字符串函数模拟实现.vcxproj -> C:\Users\81085\Desktop\资料\项目\C字符串函数模拟实现\Debug\C字符串函数模拟实现.exe
