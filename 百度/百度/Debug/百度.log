@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\81085\desktop\资料\项目\百度\百度\源.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\81085\desktop\资料\项目\百度\百度\源.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\81085\desktop\资料\项目\百度\百度\源.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\81085\desktop\资料\项目\百度\百度\源.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+  百度.vcxproj -> C:\Users\81085\Desktop\资料\项目\百度\Debug\百度.exe
