@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\81085\desktop\资料\项目\回文\回文\源.cpp(28): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\81085\desktop\资料\项目\回文\回文\源.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+  回文.vcxproj -> C:\Users\81085\Desktop\资料\项目\回文\Debug\回文.exe
