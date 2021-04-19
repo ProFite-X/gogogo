@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\81085\desktop\资料\项目\字符串模拟整数加减\字符串模拟整数加减\源.cpp(93): warning C4305: “=”: 从“int”到“bool”截断
+c:\users\81085\desktop\资料\项目\字符串模拟整数加减\字符串模拟整数加减\源.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+  字符串模拟整数加减.vcxproj -> C:\Users\81085\Desktop\资料\项目\字符串模拟整数加减\Debug\字符串模拟整数加减.exe
